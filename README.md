@@ -1,62 +1,209 @@
-# Vivek Thakare — Portfolio
+# ⚡ Vivek Thakare — AI/ML Developer
 
-A responsive static portfolio website built for GitHub Pages.
+<p align="center">
+  <b>AI/ML Developer • Generative AI • RAG • Full-Stack AI</b>
+</p>
 
-## Files
+<p align="center">
+  <a href="https://vivek-41-thakare.github.io/vivek-ai-portfolio/">
+    🌐 Live Portfolio
+  </a>
+  •
+  <a href="https://github.com/Vivek-41-Thakare">
+    GitHub
+  </a>
+  •
+  <a href="https://www.linkedin.com/in/vivekthakare">
+    LinkedIn
+  </a>
+</p>
 
-- `index.html` — portfolio content
-- `style.css` — responsive design
-- `script.js` — scroll reveal + active navigation
-- `assets/vivek-profile.jpeg` — profile image
-- `assets/Vivek-Thakare-Resume.pdf` — resume
+---
 
-## Run locally
+## 👨‍💻 About Me
 
-Just open `index.html` in a browser.
+I'm **Vivek Thakare**, an AI/ML Developer and B.Tech student specializing in **Artificial Intelligence & Machine Learning**.
 
-For a local server (recommended):
+I build practical AI systems combining **Machine Learning, Generative AI, RAG, LLMs, and Full-Stack development**.
 
-```bash
-python -m http.server 8000
-```
+Currently pursuing my **B.Tech in AI/ML at JSPM University, Pune**, with expected graduation in **May 2027**.
 
-Then open `http://localhost:8000`.
+---
 
-## Publish on GitHub Pages
+## 🚀 Portfolio
 
-### Option 1 — Project URL
+My portfolio is designed as a futuristic **cyberpunk / gaming HUD interface**, showcasing my:
 
-Create a public GitHub repository, for example:
+- AI/ML projects
+- Generative AI systems
+- Internship experience
+- Technical skills
+- Hackathon achievements
+- Education and certifications
 
-`vivek-portfolio`
+### 🌐 Live Website
 
-Upload all files from this folder to the repository.
+**[Visit My Portfolio](https://vivek-41-thakare.github.io/vivek-ai-portfolio/)**
 
-Then:
+---
 
-1. Open the repository on GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Select branch **main** and folder **/(root)**.
-5. Save.
-6. GitHub will publish the site.
+## 🧠 Featured Projects
 
-Your URL will look like:
+### 🤖 Vivek AI — Academic RAG Assistant
 
-`https://YOUR-USERNAME.github.io/vivek-portfolio/`
+A full-stack Generative AI research assistant designed for grounded document-based question answering.
 
-### Option 2 — Clean personal URL
+**Tech Stack:**
 
-Create the repository:
+- LangGraph
+- LangChain
+- FastAPI
+- React
+- Gemini
+- Supabase PostgreSQL
+- pgvector
+- Jina Reranker
 
-`YOUR-USERNAME.github.io`
+**Key Features:**
 
-Upload the same files to the root of that repository.
+- PDF document ingestion
+- Semantic chunking
+- 768-dimensional embeddings
+- Hybrid retrieval using Reciprocal Rank Fusion (RRF)
+- Jina reranking
+- LangGraph agent orchestration
+- Grounded AI responses
+- Page-level citations
+- Vector database using pgvector
 
-Your portfolio will then be:
+---
 
-`https://YOUR-USERNAME.github.io/`
+### 💳 Credit Risk Prediction System
 
-## Important
+An end-to-end machine learning system for credit risk prediction.
 
-The project information and experience text in this version are based on the supplied resume. Project-specific live-demo/repository URLs were not invented where they were not provided.
+**Tech Stack:**
+
+- Python
+- XGBoost
+- Scikit-learn
+- FastAPI
+- PostgreSQL
+- Redis
+- Docker
+
+**Model Metrics:**
+
+- Accuracy: 80.5%
+- Precision: 78%
+- ROC-AUC: 0.776
+- 54 input features
+
+---
+
+### 🖐️ Hand Tracking AR
+
+A real-time computer vision and augmented interaction system using hand tracking.
+
+**Tech Stack:**
+
+- Python
+- OpenCV
+- MediaPipe
+- NumPy
+
+---
+
+## 💼 Experience
+
+### AICTE & EduSkills
+**Machine Learning & Data Science Virtual Intern**  
+`Apr 2026 – Jun 2026`
+
+Worked on machine learning and data science concepts, model development and practical AI/ML workflows.
+
+### NextGen QuickHire Pvt. Ltd.
+**AI Developer Intern**  
+`Jun 2025 – Oct 2025`
+
+Worked on AI applications, model testing, debugging and performance optimization.
+
+### AWS Academy
+**Cloud Virtual Intern**  
+`Apr 2025 – Jun 2025`
+
+Worked with AWS cloud technologies including EC2, S3, IAM and cloud networking concepts.
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+`Python` `C++` `SQL`
+
+### Generative AI & NLP
+`Generative AI` `LLMs` `RAG` `LangGraph` `LangChain`  
+`Semantic Search` `Hybrid Retrieval` `Vector Embeddings` `Prompt Engineering`
+
+### Machine Learning
+`Machine Learning` `Deep Learning` `Predictive Modeling`  
+`Feature Engineering` `Data Preprocessing` `EDA`  
+`Model Evaluation` `Supervised Learning` `Unsupervised Learning`
+
+### Frameworks & Libraries
+`TensorFlow` `PyTorch` `Scikit-learn` `Pandas` `NumPy`  
+`OpenCV` `MediaPipe` `FastAPI`
+
+### Databases & Cloud
+`PostgreSQL` `pgvector` `Supabase` `MySQL`  
+`MongoDB` `Firebase` `AWS EC2` `AWS S3` `AWS IAM`
+
+### Tools
+`Git` `GitHub` `Jupyter` `VS Code` `Power BI`
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Finalist — Riverathon 1.0 (2026)
+- 🚀 Qualified — Ignition Hackverse 2026
+- 💻 Participated in **05+ National Hackathons**
+
+---
+
+## 🎓 Education
+
+### JSPM University, Pune
+**B.Tech — Artificial Intelligence & Machine Learning**
+
+`2023 – 2027`
+
+Expected Graduation: **May 2027**
+
+---
+
+## 📜 Certifications
+
+- IBM SkillsBuild — Data Analysis with Python
+- Google Analytics
+- Java / Spring Boot / JPA / Git / Maven / Microservices
+- Generative AI & Machine Learning
+- TensorFlow Fundamentals
+- Power BI
+
+---
+
+## 📊 What I Build
+
+```text
+AI Applications
+      ↓
+Machine Learning
+      ↓
+Generative AI
+      ↓
+RAG + LLM Systems
+      ↓
+Full-Stack AI Products
+      ↓
+Production Deployment
