@@ -3,7 +3,7 @@
 <p align="center">
   <b>AI/ML Developer • Generative AI • RAG • Full-Stack AI</b>
 </p>
-vfvf
+
 <p align="center">
   <a href="https://vivek-41-thakare.github.io/vivek-ai-portfolio/">
     🌐 Live Portfolio
